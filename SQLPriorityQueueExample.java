@@ -2,7 +2,8 @@ import java.sql.*;
 import java.util.Comparator;
 import java.util.PriorityQueue;
 
-public class SQLPriorityQueueExample {
+public class SQLPriorityQueueExample
+ {
 
     // Define a class to represent items fetched from SQL
     static class Item {
